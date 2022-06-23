@@ -1,0 +1,11 @@
+.Footer-container {
+    display: flex;
+    justify-content: flex-end;
+    padding-bottom: 40px;
+}
+
+.Text-footer {
+    font-weight: 700;
+    font-size: medium;
+    width: 500px;
+}

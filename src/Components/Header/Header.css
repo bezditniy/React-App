@@ -1,0 +1,14 @@
+.Navbar-buttons {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 30px 300px 40px 300px;
+}
+
+.Buttons {
+    border: 0;
+    text-transform: uppercase;
+    background-color: white;
+    color: #16a085;
+    font-size: larger;
+    font-weight: 700;
+}
